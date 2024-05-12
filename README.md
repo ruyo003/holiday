@@ -4,7 +4,7 @@ Overview:
 
 The holiday.py program is a simple Python script that calculates the total cost of a holiday based on the user's input. It prompts the user to enter the following information:
 
-City Name: The destination city for the holiday.
+City Name: The destination city for the holiday(given 5 choices).
 Hotel Stay: The number of days the user plans to spend in a hotel.
 Car Rental: The number of days the user plans to rent a car.
 
